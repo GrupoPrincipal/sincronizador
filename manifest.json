@@ -1,0 +1,8 @@
+{  
+  "name": "Push Demo",  
+  "short_name": "Push Demo",  
+   
+  "start_url": "/index.php",  
+  "display": "standalone",  
+  "gcm_sender_id": "488773894105"
+}
